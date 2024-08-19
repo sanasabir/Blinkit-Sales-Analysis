@@ -10,7 +10,8 @@ The analysis covers key performance indicators (KPIs) such as Total Sales, Avera
 - **Comprehensive Metrics by Outlet Type:** Provides a detailed breakdown of all KPIs across different outlet types for a holistic view of performance.
 ## Installation and Usage
 1. **Clone the Repository:**
-2. **Open the Project:**
+   git clone https://github.com/sanasabir/Blinkit-Sales-Analysis.git
+3. **Open the Project:**
 - Download the `.pbix` file and open it using Power BI Desktop.
 ## Future Work
 - **Enhanced Data Sources:** Integrate more datasets to explore trends over time.
